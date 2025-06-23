@@ -1,2 +1,2 @@
 # Lsxu
-线程池项目（Thread pool project）
+基于置信度感知的自适应传播图神经网络

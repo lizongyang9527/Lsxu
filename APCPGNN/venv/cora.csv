@@ -1,0 +1,47 @@
+置信度 0.6  k=8层
+id,value,val_acc,best_epoch,last_epoch
+16,"tensor(0.8590, device='cuda:0', dtype=torch.float64)",0.8260000000000001,382,491
+17,"tensor(0.8650, device='cuda:0', dtype=torch.float64)",0.8200000000000001,2,140
+18,"tensor(0.8570, device='cuda:0', dtype=torch.float64)",0.8260000000000001,89,245
+19,"tensor(0.8580, device='cuda:0', dtype=torch.float64)",0.8180000000000001,3,107
+20,"tensor(0.8560, device='cuda:0', dtype=torch.float64)",0.8200000000000001,2,322
+21,"tensor(0.8600, device='cuda:0', dtype=torch.float64)",0.8240000000000001,131,276
+22,"tensor(0.8620, device='cuda:0', dtype=torch.float64)",0.8280000000000001,2,328
+23,"tensor(0.8560, device='cuda:0', dtype=torch.float64)",0.836,73,299
+24,"tensor(0.8570, device='cuda:0', dtype=torch.float64)",0.8240000000000001,6,108
+25,"tensor(0.8590, device='cuda:0', dtype=torch.float64)",0.834,3,104
+26,"tensor(0.8520, device='cuda:0', dtype=torch.float64)",0.834,15,152
+27,"tensor(0.8540, device='cuda:0', dtype=torch.float64)",0.836,26,127
+28,"tensor(0.8610, device='cuda:0', dtype=torch.float64)",0.8300000000000001,81,182
+29,"tensor(0.8610, device='cuda:0', dtype=torch.float64)",0.834,6,158
+30,"tensor(0.8560, device='cuda:0', dtype=torch.float64)",0.838,177,289
+31,"tensor(0.8580, device='cuda:0', dtype=torch.float64)",0.838,2,168
+32,"tensor(0.8580, device='cuda:0', dtype=torch.float64)",0.834,152,436
+33,"tensor(0.8670, device='cuda:0', dtype=torch.float64)",0.8260000000000001,164,265
+34,"tensor(0.8630, device='cuda:0', dtype=torch.float64)",0.8320000000000001,155,262
+35,"tensor(0.8650, device='cuda:0', dtype=torch.float64)",0.8320000000000001,1,234
+
+置信度0.61 加数据增强 k=8层。传播为model_ii
+id,value,val_acc,best_epoch,last_epoch
+16,"tensor(0.8590, device='cuda:0', dtype=torch.float64)",0.8180000000000001,447,548
+17,"tensor(0.8610, device='cuda:0', dtype=torch.float64)",0.8280000000000001,41,142
+18,"tensor(0.8670, device='cuda:0', dtype=torch.float64)",0.8320000000000001,98,199
+19,"tensor(0.8620, device='cuda:0', dtype=torch.float64)",0.836,131,232
+20,"tensor(0.8590, device='cuda:0', dtype=torch.float64)",0.8280000000000001,123,320
+21,"tensor(0.8620, device='cuda:0', dtype=torch.float64)",0.8180000000000001,162,263
+22,"tensor(0.8670, device='cuda:0', dtype=torch.float64)",0.8160000000000001,124,225
+23,"tensor(0.8630, device='cuda:0', dtype=torch.float64)",0.8180000000000001,3,213
+24,"tensor(0.8610, device='cuda:0', dtype=torch.float64)",0.8280000000000001,7,118
+25,"tensor(0.8620, device='cuda:0', dtype=torch.float64)",0.8220000000000001,63,169
+26,"tensor(0.8670, device='cuda:0', dtype=torch.float64)",0.8220000000000001,3,108
+27,"tensor(0.8640, device='cuda:0', dtype=torch.float64)",0.838,2,127
+28,"tensor(0.8660, device='cuda:0', dtype=torch.float64)",0.8160000000000001,98,199
+29,"tensor(0.8640, device='cuda:0', dtype=torch.float64)",0.8260000000000001,155,256
+30,"tensor(0.8640, device='cuda:0', dtype=torch.float64)",0.8220000000000001,107,208
+31,"tensor(0.8590, device='cuda:0', dtype=torch.float64)",0.8180000000000001,293,403
+32,"tensor(0.8640, device='cuda:0', dtype=torch.float64)",0.8280000000000001,29,211
+33,"tensor(0.8610, device='cuda:0', dtype=torch.float64)",0.8300000000000001,44,150
+34,"tensor(0.8570, device='cuda:0', dtype=torch.float64)",0.836,3,158
+35,"tensor(0.8500, device='cuda:0', dtype=torch.float64)",0.8160000000000001,7,108
+mean,std
+"tensor(0.8619, dtype=torch.float64)","tensor(0.0040, dtype=torch.float64)"

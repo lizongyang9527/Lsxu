@@ -1,0 +1,2 @@
+id,value,val_acc,best_epoch,last_epoch
+16,"tensor(0.8630, device='cuda:0', dtype=torch.float64)",0.8280000000000001,280,453
